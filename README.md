@@ -3,7 +3,7 @@
 
 In the name of GOD </br>
 
-This is the implementation of conditional GAN called Pix2Pix for Image translation of some data. </br>
+This is the implementation of conditional GAN called Pix2Pix for Image translation of a dataset of image pairs (1207 pairs). </br>
 I implemented a model in Pytorch that performs image translation from the input images to the target images. </br>
 An example of the input image and its target image is shown below : </br>
 <img width="459" alt="image" src="https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/Example_pair_2.png">
