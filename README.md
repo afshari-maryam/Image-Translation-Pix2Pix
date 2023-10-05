@@ -1,7 +1,6 @@
 # Image Translation using Pix2Pix
-# Image translation
 ## Translation of an input image to a target image.
-In the name of GOD </br>
+                                                                                    In the name of GOD </br>
 
 This is the implementation of conditional GAN called Pix2Pix for Image translation of some data. </br>
 I implemented a model in Pytorch that performs image translation from the input images to the target images. An example of the input image and its target image is shown below</br>
