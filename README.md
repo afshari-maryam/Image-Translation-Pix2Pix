@@ -28,7 +28,7 @@ Run  ``` train.py ``` script. <br />
 
 
 ## For making an inference (testing a single image )
-Download the model from [here](https://tuni-my.sharepoint.com/:u:/g/personal/sheyda_ghanbaralizadehbahnemiri_tuni_fi/EefhTnBnXmlPgWGjU9seFfkBArrboa-Zocw9v7xqPnRsAQ?e=WNf0AO). 
+Download the model from [here](https://drive.google.com/file/d/1BXT2ceCg9z38RCMmuTHPvB3Z7noFHjO7/view?usp=sharing). 
 Model's name is ``` ckpt-10 ``` <br />
 Put the model in ``` ckpt-10 ``` folder<br />
 Change the directory and name of image in ``` Make_Inference.py ```<br />
