@@ -27,7 +27,7 @@ Put the model in ``` ckpt-10 ``` folder<br />
 Change the directory and name of image in ``` Make_Inference.py ```<br />
 Run  ``` Make_Inference.py ``` on a test image<br />
 
-Dataset is provided by [Visidon](https://www.visidon.fi/)
+Dataset is provided by 
 
 ## Results
 ![image](https://user-images.githubusercontent.com/31028574/205401871-ad4169c6-cdc8-4712-8a68-a540026e01f9.png)
