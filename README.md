@@ -14,17 +14,18 @@ Pix2Pix is a specific model architecture proposed in a research paper titled "Im
 
 ## For Dependencies : 
 Run  ``` pip install -r requirements.txt ``` script. <br /> 
+Dependencies are : <br />
+tensorflow==2.12.0 <br />
+matplotlib==3.7.1 <br />
+ipython==7.34.0 <br />
+Pydub <br />
 
 ## For training : 
 Run  ``` dataset.py ``` script. to make train_dataset and test_dataset. <br /> 
 Run  ``` Model.py ``` script. to make model ready. <br /> 
 Run  ``` Loss.py ``` script. to make model loss . <br /> 
 Run  ``` train.py ``` script. <br /> 
-Dependencies are : <br />
-tensorflow==2.12.0 <br />
-matplotlib==3.7.1 <br />
-ipython==7.34.0 <br />
-Pydub <br />
+
 
 ## For making an inference (testing a single image )
 Download the model from [here](https://tuni-my.sharepoint.com/:u:/g/personal/sheyda_ghanbaralizadehbahnemiri_tuni_fi/EefhTnBnXmlPgWGjU9seFfkBArrboa-Zocw9v7xqPnRsAQ?e=WNf0AO). 
