@@ -37,7 +37,8 @@ Dataset is provided by
 
 ## Results
 ![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/pred_results/run%3A%203.png)
-![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/pred_results/run%4A%203.png)
+![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/pred_results/run%3A%205.png)
 
-
-
+## Prediction and Accuracy 
+Run  ``` Prediction.py ``` script. to find some prediction result from test_dataset. <br /> 
+Run  ``` Prediction.py ``` script. to find some prediction result from test_dataset. <br /> 
