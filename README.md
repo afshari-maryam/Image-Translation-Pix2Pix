@@ -29,10 +29,10 @@ Run  ``` train.py ``` script. <br />
 
 ## For making an inference (testing a single image )
 Download the model from [here](https://drive.google.com/file/d/1BXT2ceCg9z38RCMmuTHPvB3Z7noFHjO7/view?usp=sharing).<br />
-Model's name is ```ckpt-10``` <br />
-Put the model in ``` /training_checkpoints ``` folder<br />
-Change the directory and name of your test image in ``` Make_Inference.py ```<br />
-Run  ``` Make_Inference.py ``` on a test image<br />
+Model's name is ```ckpt-10```. <br />
+Put the model in ``` /training_checkpoints ``` folder.<br />
+Put the directory of your test image in ``` Make_Inference.py ```<br />
+Run  ``` Make_Inference.py ``` on a test image.<br />
 
 Dataset is provided by 
 
