@@ -133,7 +133,7 @@ def generate_images(model, test_input, tar):
   plt.figure(figsize=(15, 5))
 
   display_list = [test_input[0], tar[0], prediction[0]]
-  title = ['Input Image', 'Ground Truth', 'Predicted Image']
+  title = ['Input Image', 'Target Image', 'Predicted Image']
 
   for i in range(3):
     plt.subplot(1, 3, i+1)
@@ -148,7 +148,7 @@ def generate_and_save_images(model, test_input, tar, save_path):
     plt.figure(figsize=(15, 5))
 
     display_list = [test_input[0], tar[0], prediction[0]]
-    title = ['Input Image', 'Ground Truth', 'Predicted Image']
+    title = ['Input Image', 'Target Image', 'Predicted Image']
 
     for i in range(3):
         plt.subplot(1, 3, i+1)
@@ -166,7 +166,7 @@ def generate_output_images(model, test_input, tar):
   plt.figure(figsize=(15, 5))
 
   display_list = [test_input[0], tar[0], prediction[0]]
-  title = ['Input Image', 'Ground Truth', 'Predicted Image']
+  title = ['Input Image', 'Target Image', 'Predicted Image']
 
   for i in range(3):
     plt.subplot(1, 3, i+1)
@@ -181,7 +181,7 @@ def generate_and_save_output_images(model, test_input, tar, save_path):
     plt.figure(figsize=(15, 5))
 
     display_list = [test_input[0], tar[0], prediction[0]]
-    title = ['Input Image', 'Ground Truth', 'Predicted Image']
+    title = ['Input Image', 'Target Image', 'Predicted Image']
 
     for i in range(3):
         plt.subplot(1, 3, i+1)
