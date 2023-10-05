@@ -34,7 +34,6 @@ Put the model in ``` /training_checkpoints ``` folder.<br />
 Put the directory of your test image in ``` Make_Inference.py ```<br />
 Run  ``` Make_Inference.py ``` on a test image.<br />
 
-Dataset is provided by [Visidon](https://www.visidon.fi/)
 
 ## Prediction and Accuracy 
 Run  ``` Prediction.py ``` script. to find some prediction result from test_dataset. <br /> 
