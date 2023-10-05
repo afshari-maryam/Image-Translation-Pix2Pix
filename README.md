@@ -36,12 +36,8 @@ Run  ``` Make_Inference.py ``` on a test image<br />
 Dataset is provided by 
 
 ## Results
-![image](https://user-images.githubusercontent.com/31028574/205401871-ad4169c6-cdc8-4712-8a68-a540026e01f9.png)
-![image](https://user-images.githubusercontent.com/31028574/205401882-bc9531eb-bf7c-4512-b5ef-96c9294ede55.png)
+![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/pred_results/run%3A%203.png)
+![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/pred_results/run%4A%203.png)
 
-Results : </br>
 
-Train: </br>
-
-Inference:  </br>
 
