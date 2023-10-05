@@ -1,4 +1,4 @@
-# Image Translation using cGAN in tensorflow
+# Image Translation using pix2pix in tensorflow
 ## Translation of an input image to a target image.
 
                                                 
