@@ -35,10 +35,13 @@ Run  ``` Make_Inference.py ``` on a test image<br />
 
 Dataset is provided by 
 
+## Prediction and Accuracy 
+Run  ``` Prediction.py ``` script. to find some prediction result from test_dataset. <br /> 
+Run  ``` Compute_accuracy.py ``` script. to find the accurcy ```Average Pixel-wise``` result. <br /> 
+Average Pixel-wise Accuracy: 0.78219396 by 40000 step. <br /> 
+
 ## Results
 ![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/pred_results/run%3A%203.png)
 ![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/pred_results/run%3A%205.png)
 
-## Prediction and Accuracy 
-Run  ``` Prediction.py ``` script. to find some prediction result from test_dataset. <br /> 
-Run  ``` Prediction.py ``` script. to find some prediction result from test_dataset. <br /> 
+
