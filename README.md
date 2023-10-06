@@ -40,7 +40,7 @@ Model's name is ```ckpt-10```. <br />
 Put the model in ``` /training_checkpoints ``` folder.<br />
 Put the directory of your test image in ``` Make_Inference.py ```<br />
 Run  ``` Make_Inference.py ``` on a test image.<br />
-My model, designed to handle images with arbitrary size.<br />
+My model, designed to handle ```images with arbitrary size```.<br />
 I have implemented a resizing mechanism that standardizes all input images to a consistent size of (256, 256).<br />
 
 
