@@ -1,11 +1,12 @@
-# Image Translation using pix2pix in tensorflow
+# Image Translation using pix2pix in Tensorflow
 ## Translation of an input image to a target image.
 
                                                 
                            In the Name of Allah, the Beneficent, the Merciful
 
-This is the implementation of conditional GAN called Pix2Pix for Image translation using ```tensorflow``` of a dataset of image pairs (1207 pairs). </br>
-I implemented a model in Pytorch that performs image translation from the input images to the target images. </br>
+This is the implementation of conditional GAN called Pix2Pix for Image translation using ```tensorflow``` of a dataset of image pairs . </br>
+It is a dataset of 1207 paired images as input and target.</br>
+I implemented a model in Tensorflow that performs image translation from the input images to the target images. </br>
 An example of the input image and its target image is shown below : </br>
 <img width="459" alt="image" src="https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/Example_pair_2.png">
 ## About the pix2pix model and Image Translation: 
@@ -39,6 +40,8 @@ Model's name is ```ckpt-10```. <br />
 Put the model in ``` /training_checkpoints ``` folder.<br />
 Put the directory of your test image in ``` Make_Inference.py ```<br />
 Run  ``` Make_Inference.py ``` on a test image.<br />
+My model, designed to handle images with arbitrary size.<br />
+I have implemented a resizing mechanism that standardizes all input images to a consistent size of (256, 256).<br />
 
 
 ## Prediction and Accuracy 
