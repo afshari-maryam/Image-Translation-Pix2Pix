@@ -30,7 +30,8 @@ Run  ``` dataset.py ``` script. to make train_dataset and test_dataset. <br />
 Run  ``` Model.py ``` script. to make model ready and will make some images from architecture of model. <br /> 
 Run  ``` Loss.py ``` script. to make model loss . <br /> 
 Run  ``` train.py ``` script. <br /> 
-
+You can see the output images after 1k steps. The below image show the result after 39k steps of training:
+![image]()
 
 ## For making an inference (testing a single image )
 Download the model from [here](https://drive.google.com/file/d/1BXT2ceCg9z38RCMmuTHPvB3Z7noFHjO7/view?usp=sharing).<br />
