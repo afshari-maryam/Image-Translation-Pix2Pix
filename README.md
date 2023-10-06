@@ -31,7 +31,7 @@ Run  ``` Model.py ``` script. to make model ready and will make some images from
 Run  ``` Loss.py ``` script. to make model loss . <br /> 
 Run  ``` train.py ``` script. <br /> 
 You can see the output images after 1k steps. The below image show the result after 39k steps of training:
-![image]()
+![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/training_result.png)
 
 ## For making an inference (testing a single image )
 Download the model from [here](https://drive.google.com/file/d/1BXT2ceCg9z38RCMmuTHPvB3Z7noFHjO7/view?usp=sharing).<br />
@@ -47,6 +47,7 @@ Run  ``` Compute_accuracy.py ``` script. to find the accurcy ```Average Pixel-wi
 ```Average Pixel-wise Accuracy: 0.78219396``` by ```40000 step```. <br /> 
 
 ## Results
+These are the result of test model using test_dataset after trainig the model.
 ![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/pred_results/run%3A%203.png)
 ![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/pred_results/run%3A%205.png)
 
