@@ -2,7 +2,7 @@
 ## Translation of an input image to a target image.
 
                                                 
-                           In the Name of Allah, the Beneficent, the Merciful
+                           In the Name of God, the Beneficent, the Merciful
 
 This is the implementation of conditional GAN called Pix2Pix for Image translation using ```tensorflow``` of a dataset of image pairs . </br>
 It is a dataset of 1207 paired images as input and target.</br>
