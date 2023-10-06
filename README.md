@@ -42,8 +42,8 @@ Put the directory of your test image in ``` Make_Inference.py ```<br />
 Run  ``` Make_Inference.py ``` on a test image.<br />
 My model, designed to handle ```images with arbitrary size```.<br />
 I have implemented a resizing mechanism that standardizes all input images to a consistent size.<br />
-IMG_WIDTH = 256<br />
-IMG_HEIGHT = 256<br />
+```IMG_WIDTH = 256```<br />
+```IMG_HEIGHT = 256```<br />
 
 
 ## Prediction and Accuracy 
