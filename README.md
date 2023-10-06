@@ -31,7 +31,9 @@ Run  ``` dataset.py ``` script. to make train_dataset and test_dataset. <br />
 Run  ``` Model.py ``` script. to make model ready and will make some images from architecture of model. <br /> 
 Run  ``` Loss.py ``` script. to make model loss . <br /> 
 Run  ``` train.py ``` script. <br /> 
-You can see the output images after 1k steps. The below image show the result after 39k steps of training:
+You can see the output images after 1k steps. The below image show the result after 39k steps of training:<br /> 
+<br /> 
+
 ![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/training_result.png)
 
 ## For making an inference (testing a single image )
