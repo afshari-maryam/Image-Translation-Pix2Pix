@@ -44,7 +44,7 @@ Run  ``` Make_Inference.py ``` on a test image.<br />
 ## Prediction and Accuracy 
 Run  ``` Prediction.py ``` script. to find some prediction result from test_dataset. <br /> 
 Run  ``` Compute_accuracy.py ``` script. to find the accurcy ```Average Pixel-wise``` result. <br /> 
-```Average Pixel-wise Accuracy: 0.78219396``` by ```40000 step```. <br /> 
+```Average Pixel-wise Accuracy: 0.78219396``` by ```50000 step```. <br /> 
 
 ## Results
 These are the result of test model using test_dataset after trainig the model.
