@@ -17,6 +17,8 @@ The cGAN framework consists of two main components: a ```generator``` network th
 and a ```discriminator``` network that tries to distinguish between the generated output image and the real target image..</br>
 The generator and discriminator are trained together in an adversarial manner, where the generator aims to fool the discriminator and produce realistic outputs, while the discriminator tries to correctly classify the real and generated images.</br>
 
+## How Generator learns:
+
 
 ## For Dependencies : 
 Run  ``` pip install -r requirements.txt ``` script. <br /> 
