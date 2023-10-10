@@ -4,9 +4,8 @@
                                                 
                            In the Name of God, the Beneficent, the Merciful
 
-This is the implementation of conditional GAN called Pix2Pix for Image translation using ```tensorflow``` of a dataset of image pairs . </br>
+This is the implementation of image translation by conditional GAN architecture for Image translation using ```tensorflow``` of a dataset of image pairs . </br>
 It is a dataset of 1207 paired images as input and target.</br>
-I implemented a model in Tensorflow that performs image translation from the input images to the target images. </br>
 An example of the input image and its target image is shown below : </br>
 <img width="459" alt="image" src="https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/Example_pair_2.png">
 ## About the pix2pix model and Image Translation: 
