@@ -18,9 +18,11 @@ and a ```discriminator``` network that tries to distinguish between the generate
 The generator and discriminator are trained together in an adversarial manner, where the generator aims to fool the discriminator and produce realistic outputs, while the discriminator tries to correctly classify the real and generated images.</br>
 
 ###  The training procedure for the generator :
-![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/training_result.png)
+![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/generator-training.png)
 
 ### The training procedure for the discriminator :
+![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/disc-training.png)
+
 
 ## For Dependencies : 
 Run  ``` pip install -r requirements.txt ``` script. <br /> 
