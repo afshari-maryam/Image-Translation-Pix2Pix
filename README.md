@@ -1,5 +1,5 @@
 # Image Translation using pix2pix in Tensorflow
-## Translation of an input image to a target image.
+## Translation of an input image to a target image(Style Transfer).
 
                                                 
                            In the Name of God, the Beneficent, the Merciful
