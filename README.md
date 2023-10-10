@@ -12,7 +12,7 @@ An example of the input image and its target image is shown below : </br>
 ## About the pix2pix model and Image Translation: 
 The Pix2Pix model and image translation techniques is to enable the generation of realistic images by learning the mapping between an input image and an output image. This mapping can be used for various tasks, such as image-to-image translation or image generation.</br>
 Pix2Pix is a specific model architecture proposed in a research paper titled ``` "Image-to-Image Translation with Conditional Adversarial Networks" by Isola et al. ```. </br>
-It uses a ```conditional generative adversarial network (cGAN)``` to learn the mapping between input and output images. .</br>
+It uses a ```conditional generative adversarial network (cGAN)``` to learn the mapping between input and output images.</br>
 The cGAN framework consists of two main components: a ```generator``` network that generates the output image from the input image,.</br>
 and a ```discriminator``` network that tries to distinguish between the generated output image and the real target image..</br>
 The generator and discriminator are trained together in an adversarial manner, where the generator aims to fool the discriminator and produce realistic outputs, while the discriminator tries to correctly classify the real and generated images.</br>
