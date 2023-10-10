@@ -32,10 +32,7 @@ Run  ``` Model.py ``` script. to make model ready and will make some images from
 Run  ``` Loss.py ``` script. to make model loss . <br /> 
 Run  ``` train.py ``` script. <br /> 
 You can see the output images after 1k steps. <br /> 
-The below image show the result after 39k steps of training:<br /> 
-<br /> 
 
-![image](https://github.com/afshari-maryam/Image-Translation-Pix2Pix/blob/main/training_result.png)
 
 ## For making an inference (testing a single image )
 Download the model from [here](https://drive.google.com/file/d/1BXT2ceCg9z38RCMmuTHPvB3Z7noFHjO7/view?usp=sharing).<br />
